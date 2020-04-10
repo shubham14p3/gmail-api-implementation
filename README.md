@@ -4,11 +4,11 @@
 
 Getting Mail Ids :
 
-![screenshot](./GetEmail.png)
+![screenshot](./img/GetEmail.png)
 
 Getting Mail body with selected Mail Id
 
-![screenshot](./getEmailbody.png)
+![screenshot](./img/getEmailbody.png)
 
 Additional description about the project and its features.
 
