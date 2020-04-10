@@ -8,7 +8,7 @@ Getting Mail Ids :
 
 Getting Mail body with selected Mail Id
 
-![screenshot](./img/getEmailbody.png)
+![screenshot](./img/getEmailbodyid.png)
 
 
 ## Built With
