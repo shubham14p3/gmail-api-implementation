@@ -2,7 +2,13 @@
 
 > Getting the mails from Gmail, reading the top 10 mails, getting the body
 
-![screenshot](./app_screenshot.png)
+Getting Mail Ids :
+
+![screenshot](./GetEmail.png)
+
+Getting Mail body with selected Mail Id
+
+![screenshot](./getEmailbody.png)
 
 Additional description about the project and its features.
 
@@ -15,6 +21,11 @@ Additional description about the project and its features.
 To get a local copy up and running follow these simple example steps.
 
 git clone https://github.com/shubham14p3/gmail-api-implementation.git
+
+Note:
+1. Run the following you need to first start server in localhost
+2. Run GetMail Route to see the mail Ids
+3. Copy any mail Id and run it with cascading it with Get Email Body route
 
 ## File required
 
