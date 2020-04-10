@@ -10,7 +10,6 @@ Getting Mail body with selected Mail Id
 
 ![screenshot](./img/getEmailbody.png)
 
-Additional description about the project and its features.
 
 ## Built With
 
