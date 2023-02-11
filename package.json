@@ -14,7 +14,7 @@
     "gapi": "0.0.3",
     "googleapis": "^39.2.0",
     "https": "^1.0.0",
-    "nodemon": "^2.0.3"
+    "nodemon": "^2.0.20"
   },
   "devDependencies": {
     "coffeescript": "^2.5.1"
